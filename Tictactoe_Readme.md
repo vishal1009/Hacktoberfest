@@ -1,0 +1,2 @@
+Its a most common and beginner friendly project to help noobies understand some basic concepts of c++.
+its build using some of the basic stuff like arrays, loops, conditional statements and switch statements.
